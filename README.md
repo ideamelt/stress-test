@@ -6,22 +6,26 @@ This module simulates real-world load for IdeaMelt's Notifier app.
 
 To run this test, simply run the following command in shell
 
-`python search_test.py`
+```python
+python search_test.py
+```
 
 ## Dependencies
 
-`grequests`
-`libevent`
+```
+grequests
+libevent
+```
 
 ## Configuration
 
 To change the scope of the test, change the following parameters in the `settings.py` file
 
-`
+```python
 SEARCH_TOTAL_TIME = 20 # seconds
 SEARCH_INTERVAL_TIME = 5 # seconds
 USERS_TO_TEST = 5 # you can stress test a random sample users (must be less than 1000)
-`
+```
 
 ## More
 
