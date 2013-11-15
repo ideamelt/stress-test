@@ -2,15 +2,18 @@ from datetime import datetime, timedelta
 import urllib
 import settings
 import simplejson as json
+import os
 
 # common methods
 def create_echo_url(user_url_s):
-    return (settings.ECHO_API_URL + settings.ECHO_CLIENT_URL + settings.ECHO_DATATYPE_URL +
-            urllib.quote_plus(user_url_s) + settings.ECHO_APP_KEY_QP)
+	return (settings.ECHO_API_URL + settings.ECHO_CLIENT_URL + settings.ECHO_DATATYPE_URL +
+			urllib.quote_plus(user_url_s) + settings.ECHO_APP_KEY_QP)
 
 def export_data(filename, data):
-    with open('data/%s-%s.json' % (filename, datetime.utcnow()), 'w') as outfile:
-        json.dump(data, outfile, indent=4)
+	if not os.path.exists('data'):
+		os.makedirs('data')
+	with open('data/%s-%s.json' % (filename, datetime.utcnow()), 'w') as outfile:
+		json.dump(data, outfile, indent=4)
 
 def aggregate_data(global_data):
 	global_data['stats'] = {}
