@@ -66,8 +66,10 @@ def search_test():
 		write_log('INFO - Loop finish %s' % (current_loop))
 		timing_data[current_loop] = loop_data
 		current_loop = current_loop + 1
-		# continue test and sleep
-		time.sleep(settings.SEARCH_INTERVAL_TIME)
+		# figure out how long to sleep for
+		elasped_time = time.time() - started[current_loop - 1]
+		if(elasped_time < settings.SEARCH_INTERVAL_TIME):
+			time.sleep(settings.SEARCH_INTERVAL_TIME - elasped_time)
 	# aggregate stats and finish test
 	global_data = {
 		'total_time': time.time() - global_start,

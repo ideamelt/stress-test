@@ -13,5 +13,5 @@ USER_LIST = range(1, USER_MAX + 1)
 
 # Stress test settings
 SEARCH_TOTAL_TIME = 20 # seconds
-SEARCH_INTERVAL_TIME = 5 # seconds
+SEARCH_INTERVAL_TIME = 2 # seconds
 USERS_TO_TEST = 5 # you can stress test a random sample users set in USER_MAX (must be less than USER_MAX)
