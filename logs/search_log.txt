@@ -1,0 +1,1704 @@
+2013-11-15 19:18:07.523362 -> INFO - Starting test
+
+2013-11-15 19:18:07.523796 -> INFO - Looping 4.0 times
+
+2013-11-15 19:18:07.524590 -> INFO - Starting loop 0
+
+2013-11-15 19:18:07.883515 -> INFO - Loop finish 0
+
+2013-11-15 19:24:59.600684 -> INFO - Starting test
+
+2013-11-15 19:25:16.675100 -> INFO - Starting test
+
+2013-11-15 19:25:16.675290 -> INFO - Starting loop 0
+
+2013-11-15 19:25:17.030792 -> INFO - Loop finish 0
+
+2013-11-15 19:25:22.032077 -> INFO - Starting loop 1
+
+2013-11-15 19:25:22.245808 -> INFO - Loop finish 1
+
+2013-11-15 19:25:27.247058 -> INFO - Starting loop 2
+
+2013-11-15 19:25:27.581309 -> INFO - Loop finish 2
+
+2013-11-15 19:25:32.582624 -> INFO - Starting loop 3
+
+2013-11-15 19:25:32.886070 -> INFO - Loop finish 3
+
+2013-11-15 19:25:37.887352 -> INFO - Starting loop 4
+
+2013-11-15 19:25:38.079783 -> INFO - Loop finish 4
+
+2013-11-15 19:25:43.080469 -> ENDING TEST -- Global Time: 26.4053280354 
+
+2013-11-15 19:27:14.341020 -> INFO - Starting test
+
+2013-11-15 19:27:14.341231 -> INFO - Starting loop 0
+
+2013-11-15 19:27:14.684195 -> INFO - Loop finish 0
+
+2013-11-15 19:27:19.685512 -> INFO - Starting loop 1
+
+2013-11-15 19:27:19.909279 -> INFO - Loop finish 1
+
+2013-11-15 19:27:24.909659 -> INFO - Starting loop 2
+
+2013-11-15 19:27:25.108575 -> INFO - Loop finish 2
+
+2013-11-15 19:27:30.109864 -> INFO - Starting loop 3
+
+2013-11-15 19:27:30.529024 -> INFO - Loop finish 3
+
+2013-11-15 19:27:35.530312 -> INFO - Starting loop 4
+
+2013-11-15 19:27:35.774814 -> INFO - Loop finish 4
+
+2013-11-15 19:27:40.776198 -> ENDING TEST -- Global Time: 26.435021162 
+
+2013-11-15 19:28:24.964513 -> INFO - Starting test
+
+2013-11-15 19:28:24.964834 -> INFO - Looping 4.0 times
+
+2013-11-15 19:28:24.965859 -> INFO - Starting loop 0
+
+2013-11-15 19:28:25.255723 -> INFO - Loop finish 0
+
+2013-11-15 19:28:30.256982 -> INFO - Starting loop 1
+
+2013-11-15 19:28:30.457460 -> INFO - Loop finish 1
+
+2013-11-15 19:28:35.458687 -> INFO - Starting loop 2
+
+2013-11-15 19:28:35.776321 -> INFO - Loop finish 2
+
+2013-11-15 19:28:40.777579 -> INFO - Starting loop 3
+
+2013-11-15 19:28:40.994646 -> INFO - Loop finish 3
+
+2013-11-15 19:28:45.995954 -> ENDING TEST -- Global Time: 21.0313301086 
+
+2013-11-15 19:29:26.424929 -> INFO - Starting test
+
+2013-11-15 19:29:26.425271 -> INFO - Looping 1.0 times
+
+2013-11-15 19:29:26.425860 -> INFO - Starting loop 0
+
+2013-11-15 19:29:26.778681 -> INFO - Loop finish 0
+
+2013-11-15 19:29:31.779751 -> ENDING TEST -- Global Time: 5.3547129631 
+
+2013-11-15 19:33:58.010446 -> INFO - Starting test
+
+2013-11-15 19:33:58.010769 -> INFO - Looping 1.0 times
+
+2013-11-15 19:33:58.011764 -> INFO - Starting loop 0
+
+2013-11-15 19:33:58.341763 -> INFO - Loop finish 0
+
+2013-11-15 19:34:03.343080 -> ENDING TEST -- Global Time: 5.33253002167 
+
+2013-11-15 19:34:58.879695 -> INFO - Starting test
+
+2013-11-15 19:34:58.880066 -> INFO - Looping 1.0 times
+
+2013-11-15 19:34:58.881333 -> INFO - Starting loop 0
+
+2013-11-15 19:34:59.236743 -> INFO - Loop finish 0
+
+2013-11-15 19:35:04.238109 -> ENDING TEST -- Global Time: 5.35831809044 
+
+2013-11-15 19:35:44.508725 -> INFO - Starting test
+
+2013-11-15 19:35:44.509092 -> INFO - Looping 1.0 times
+
+2013-11-15 19:35:44.510097 -> INFO - Starting loop 0
+
+2013-11-15 19:35:44.838795 -> INFO - Loop finish 0
+
+2013-11-15 19:35:49.840023 -> ENDING TEST -- Global Time: 5.33123111725 
+
+2013-11-15 19:39:36.893181 -> INFO - Starting test
+
+2013-11-15 19:39:36.893566 -> INFO - Looping 1.0 times
+
+2013-11-15 19:39:36.894299 -> INFO - Starting loop 0
+
+2013-11-15 19:39:37.188949 -> INFO - Loop finish 0
+
+2013-11-15 19:39:42.190090 -> ENDING TEST -- Global Time: 5.29679703712 
+
+2013-11-15 19:40:36.611670 -> INFO - Starting test
+
+2013-11-15 19:40:36.611957 -> INFO - Looping 1.0 times
+
+2013-11-15 19:40:36.612054 -> INFO - Starting loop 0
+
+2013-11-15 19:40:36.945516 -> INFO - Loop finish 0
+
+2013-11-15 19:40:41.946856 -> ENDING TEST -- Global Time: 5.3350880146 
+
+2013-11-15 19:40:53.290240 -> INFO - Starting test
+
+2013-11-15 19:40:53.290568 -> INFO - Looping 1.0 times
+
+2013-11-15 19:40:53.291366 -> INFO - Starting loop 0
+
+2013-11-15 19:40:53.638552 -> INFO - Loop finish 0
+
+2013-11-15 19:40:58.639707 -> ENDING TEST -- Global Time: 5.34933710098 
+
+2013-11-15 19:41:51.200239 -> INFO - Starting test
+
+2013-11-15 19:41:51.200541 -> INFO - Looping 1.0 times
+
+2013-11-15 19:41:51.201251 -> INFO - Starting loop 0
+
+2013-11-15 19:41:51.696045 -> INFO - Loop finish 0
+
+2013-11-15 19:41:56.697434 -> ENDING TEST -- Global Time: 5.49706888199 
+
+2013-11-15 19:44:54.932640 -> INFO - Starting test
+
+2013-11-15 19:44:54.932961 -> INFO - Looping 1.0 times
+
+2013-11-15 19:44:54.934136 -> INFO - Starting loop 0
+
+2013-11-15 19:44:55.296934 -> INFO - Loop finish 0
+
+2013-11-15 19:45:00.297433 -> ENDING TEST -- Global Time: 5.36474704742 
+
+2013-11-15 19:45:14.664375 -> INFO - Starting test
+
+2013-11-15 19:45:14.664746 -> INFO - Looping 1.0 times
+
+2013-11-15 19:45:14.665849 -> INFO - Starting loop 0
+
+2013-11-15 19:45:15.005963 -> INFO - Loop finish 0
+
+2013-11-15 19:45:20.006487 -> ENDING TEST -- Global Time: 5.34205794334 
+
+2013-11-15 19:49:12.154886 -> INFO - Starting test
+
+2013-11-15 19:49:12.155223 -> INFO - Looping 1.0 times
+
+2013-11-15 19:49:12.156315 -> INFO - Starting loop 0
+
+2013-11-15 19:49:12.575515 -> INFO - Loop finish 0
+
+2013-11-15 19:49:17.576859 -> ENDING TEST -- Global Time: 5.42186522484 
+
+2013-11-15 19:49:45.129583 -> INFO - Starting test
+
+2013-11-15 19:49:45.129913 -> INFO - Looping 4.0 times
+
+2013-11-15 19:49:45.130820 -> INFO - Starting loop 0
+
+2013-11-15 19:49:45.466372 -> INFO - Loop finish 0
+
+2013-11-15 19:49:50.467684 -> INFO - Starting loop 1
+
+2013-11-15 19:49:50.803610 -> INFO - Loop finish 1
+
+2013-11-15 19:49:55.804888 -> INFO - Starting loop 2
+
+2013-11-15 19:49:56.127855 -> INFO - Loop finish 2
+
+2013-11-15 19:50:01.128980 -> INFO - Starting loop 3
+
+2013-11-15 19:50:01.464236 -> INFO - Loop finish 3
+
+2013-11-15 19:50:06.465502 -> ENDING TEST -- Global Time: 21.3358540535 
+
+2013-11-15 19:50:28.148927 -> INFO - Starting test
+
+2013-11-15 19:50:28.149285 -> INFO - Looping 4.0 times
+
+2013-11-15 19:50:28.149899 -> INFO - Starting loop 0
+
+2013-11-15 19:50:28.741321 -> INFO - Loop finish 0
+
+2013-11-15 19:50:33.742557 -> INFO - Starting loop 1
+
+2013-11-15 19:50:34.108589 -> INFO - Loop finish 1
+
+2013-11-15 19:50:51.772044 -> INFO - Starting test
+
+2013-11-15 19:50:51.772464 -> INFO - Looping 4.0 times for 20 users
+
+2013-11-15 19:50:51.774106 -> INFO - Starting loop 0
+
+2013-11-15 19:50:52.135378 -> INFO - Loop finish 0
+
+2013-11-15 19:50:57.136537 -> INFO - Starting loop 1
+
+2013-11-15 19:50:57.503066 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F6&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.503241 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F347&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.504626 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F350&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.504821 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F187&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505002 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F221&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505108 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F981&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505237 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F74&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505333 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F882&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505413 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F65&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505492 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F262&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505595 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F465&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505685 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F174&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505763 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F885&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505838 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F345&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505913 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F137&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.505988 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F918&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.506075 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F454&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.506167 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F20&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.506243 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F790&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.506318 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F900&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:50:57.506390 -> INFO - Loop finish 1
+
+2013-11-15 19:51:02.507478 -> INFO - Starting loop 2
+
+2013-11-15 19:51:02.806770 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F6&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.806921 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F347&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808113 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F350&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808207 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F187&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808291 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F221&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808373 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F981&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808453 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F74&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808550 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F882&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808689 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F65&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808784 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F262&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808868 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F465&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.808948 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F174&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809026 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F885&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809103 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F345&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809180 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F137&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809256 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F918&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809332 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F454&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809408 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F20&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809497 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F790&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809590 -> ERROR - Status code is 400 for http://api.echoenabled.com/v1/search?q=childrenof:http%3A%2F%2Fwww.stocial.com%2Fim-notifications%2Fhttp%3A%2F%2Fwww.test.com%2F900&appkey=prod.fuseconcepts -> { "result": "error", "errorCode": "rate_limit", "errorMessage": "Echo API call rate for this endpoint has exceeded the limit for your plan" }
+
+
+2013-11-15 19:51:02.809664 -> INFO - Loop finish 2
+
+2013-11-15 19:51:07.810889 -> INFO - Starting loop 3
+
+2013-11-15 19:51:08.126666 -> INFO - Loop finish 3
+
+2013-11-15 19:51:13.126887 -> ENDING TEST -- Global Time: 21.3547828197 
+
+2013-11-15 19:58:12.269271 -> INFO - Starting test
+
+2013-11-15 19:58:12.269694 -> INFO - Looping 4.0 times for 20 users
+
+2013-11-15 19:58:12.271393 -> INFO - Starting loop 0
+
+2013-11-15 19:58:12.810642 -> INFO - Loop finish 0
+
+2013-11-15 19:58:17.811345 -> INFO - Starting loop 1
+
+2013-11-15 19:58:18.240830 -> INFO - Loop finish 1
+
+2013-11-15 19:58:23.242107 -> INFO - Starting loop 2
+
+2013-11-15 19:58:23.686985 -> INFO - Loop finish 2
+
+2013-11-15 19:58:28.687920 -> INFO - Starting loop 3
+
+2013-11-15 19:58:29.188899 -> INFO - Loop finish 3
+
+2013-11-15 19:58:34.190158 -> ENDING TEST -- Global Time: 21.9207789898 
+
+2013-11-15 20:01:46.504447 -> INFO - Starting test
+
+2013-11-15 20:01:46.504787 -> INFO - Looping 4.0 times for 100 users
+
+2013-11-15 20:01:46.505238 -> INFO - Starting loop 0
+
+2013-11-15 20:01:51.769569 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.771865 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.778636 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.778769 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.778897 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.779029 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.779152 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.779276 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.780188 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.780366 -> ERROR - Request failed with rate_limit
+
+2013-11-15 20:01:51.780522 -> INFO - Loop finish 0
+
+2013-11-15 20:01:56.781787 -> INFO - Starting loop 1
+
+2013-11-15 20:07:32.153246 -> INFO - Starting test
+
+2013-11-15 20:07:32.153676 -> INFO - Looping 4.0 times for 100 users
+
+2013-11-15 20:07:32.155965 -> INFO - Starting loop 0
+
+2013-11-15 20:07:37.745347 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:33.010942 -> INFO - Starting test
+
+2013-11-15 20:09:33.011249 -> INFO - Looping 4.0 times for 100 users
+
+2013-11-15 20:09:33.012624 -> INFO - Starting loop 0
+
+2013-11-15 20:09:38.452060 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.453063 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.454088 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.454885 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.461813 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.461993 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.462152 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.462308 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.462529 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.462771 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.463019 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.463513 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:38.463908 -> INFO - Loop finish 0
+
+2013-11-15 20:09:43.464078 -> INFO - Starting loop 1
+
+2013-11-15 20:09:48.749495 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.749750 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.751487 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.751749 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.751900 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752035 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752158 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752278 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752398 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752518 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752637 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752754 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752872 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.752989 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753106 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753227 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753343 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753462 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753579 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753696 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753814 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.753932 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754050 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754167 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754283 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754403 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754518 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754636 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754752 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754869 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.754985 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755101 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755217 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755332 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755449 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755565 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755681 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755797 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.755913 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756029 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756143 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756260 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756376 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756492 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756608 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756727 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756844 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.756960 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757077 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757194 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757309 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757425 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757545 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757659 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757775 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.757913 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758029 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758144 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758259 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758375 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758491 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758607 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758723 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758839 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.758971 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759091 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759208 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759325 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759441 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759558 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759677 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759809 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.759959 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760092 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760210 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760328 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760444 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760561 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760677 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760793 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.760911 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761027 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761146 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761262 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761379 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761500 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761620 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761737 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761853 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.761968 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762085 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762202 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762318 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762434 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762549 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762664 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762780 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.762897 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.763013 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.763130 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:09:48.763235 -> INFO - Loop finish 1
+
+2013-11-15 20:09:53.764380 -> INFO - Starting loop 2
+
+2013-11-15 20:10:04.036297 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.036523 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.038754 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039042 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039198 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039361 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039487 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039633 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039756 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039876 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.039996 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040115 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040232 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040359 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040479 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040598 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040717 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040835 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.040952 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041070 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041187 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041304 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041422 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041540 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041656 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041773 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.041890 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042008 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042125 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042242 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042359 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042476 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042592 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042713 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042830 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.042946 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043076 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043198 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043320 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043439 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043557 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043675 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043792 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.043910 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044026 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044148 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044271 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044387 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044503 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044620 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044738 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044855 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.044971 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045091 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045207 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045324 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045439 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045556 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045672 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045789 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.045906 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046032 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046149 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046266 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046384 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046499 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046615 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046731 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046848 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.046964 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047081 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047198 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047314 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047486 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047607 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047724 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047840 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.047957 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048075 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048193 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048313 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048432 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048551 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048669 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048788 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.048906 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049025 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049141 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049258 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049375 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049492 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049608 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049727 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049849 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.049968 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050085 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050202 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050319 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050437 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050554 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:04.050660 -> INFO - Loop finish 2
+
+2013-11-15 20:10:09.050953 -> INFO - Starting loop 3
+
+2013-11-15 20:10:14.631143 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.631463 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.633355 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.633534 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.633700 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.633863 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634025 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634185 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634342 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634499 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634655 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634809 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.634960 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635112 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635281 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635433 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635583 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635732 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.635881 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636031 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636181 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636341 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636468 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636596 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636722 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636848 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.636977 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637104 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637229 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637356 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637482 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637608 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637734 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637859 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.637986 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638112 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638237 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638363 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638488 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638614 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638740 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638870 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.638996 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639123 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639248 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639375 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639502 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639633 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639759 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.639890 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640020 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640146 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640286 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640402 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640517 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640632 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640748 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640863 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.640978 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641094 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641210 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641333 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641477 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641594 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641778 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.641894 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642010 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642127 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642255 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642371 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642487 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642602 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642718 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642834 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.642950 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643064 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643183 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643299 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643416 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643532 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643651 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643767 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643881 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.643997 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.644832 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.644966 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.645083 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.645217 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:10:14.645340 -> INFO - Loop finish 3
+
+2013-11-15 20:10:19.646552 -> ENDING TEST -- Total Run Time: 46.6355009079 
+
+2013-11-15 20:13:48.748289 -> INFO - Starting test
+
+2013-11-15 20:13:48.748625 -> INFO - Looping 4.0 times for 100 users
+
+2013-11-15 20:13:48.750281 -> INFO - Starting loop 0
+
+2013-11-15 20:13:54.256513 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.256817 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.263193 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.263594 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.266534 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.266699 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.266869 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.267032 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.267193 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.267353 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.267511 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.268932 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:13:54.269314 -> INFO - Loop finish 0
+
+2013-11-15 20:13:59.270512 -> INFO - Starting loop 1
+
+2013-11-15 20:14:04.649280 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.649568 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.650801 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.650987 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651156 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651319 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651480 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651639 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651807 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.651965 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652121 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652276 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652431 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652586 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652741 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.652895 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653067 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653221 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653378 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653531 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653683 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653836 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.653990 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654143 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654295 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654447 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654617 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654746 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.654881 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655011 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655140 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655269 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655397 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655526 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655655 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655783 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.655913 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656041 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656170 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656299 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656427 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656556 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656685 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656814 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.656943 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657072 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657200 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657328 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657462 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657590 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657719 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657848 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.657976 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658106 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658235 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658364 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658492 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658632 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658751 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658869 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.658987 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659104 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659221 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659338 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659459 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659615 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659736 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659856 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.659979 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660096 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660233 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660351 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660477 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660600 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660725 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660845 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.660962 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661080 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661198 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661317 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661435 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661553 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661670 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661788 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.661907 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662024 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662146 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662263 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662386 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662504 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662622 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662740 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662858 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.662976 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663094 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663215 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663331 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663449 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663568 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663684 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:04.663791 -> INFO - Loop finish 1
+
+2013-11-15 20:14:09.664980 -> INFO - Starting loop 2
+
+2013-11-15 20:14:15.043068 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.043354 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.044483 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.044654 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.044813 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.044966 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045119 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045269 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045418 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045577 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045727 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.045875 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046023 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046170 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046319 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046467 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046614 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046761 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.046906 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047052 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047193 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047320 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047445 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047589 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047714 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047838 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.047967 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048091 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048215 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048342 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048465 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048588 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048711 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048834 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.048957 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049080 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049203 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049325 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049447 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049570 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049693 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049816 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.049938 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050061 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050184 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050307 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050430 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050553 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050675 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050802 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.050925 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051048 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051170 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051293 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051415 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051538 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051660 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051783 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.051905 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052038 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052151 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052263 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052375 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052488 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052599 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052711 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052823 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.052934 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053046 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053161 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053273 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053426 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053541 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053653 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053767 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053879 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.053991 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054113 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054226 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054342 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054455 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054567 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054679 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054791 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.054903 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055016 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055131 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055243 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055355 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055471 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055583 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055695 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055807 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.055918 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056030 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056141 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056253 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056364 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056476 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056587 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:15.056688 -> INFO - Loop finish 2
+
+2013-11-15 20:14:20.057834 -> INFO - Starting loop 3
+
+2013-11-15 20:14:25.329945 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.330203 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.332732 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.333161 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.333470 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.333659 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334065 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334225 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334383 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334539 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334695 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.334852 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335010 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335164 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335319 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335473 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335628 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335782 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.335936 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336095 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336249 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336403 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336556 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336709 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.336862 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337016 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337168 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337320 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337472 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337655 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337810 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.337963 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338115 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338267 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338418 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338570 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338722 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.338874 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339026 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339183 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339336 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339492 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339645 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339798 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.339951 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340106 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340270 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340423 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340586 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340716 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340845 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.340975 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341104 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341232 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341361 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341492 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341621 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341750 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.341879 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342012 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342146 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342277 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342407 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342535 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342666 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342795 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.342923 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343052 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343180 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343309 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343439 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343569 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343697 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343826 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.343955 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344085 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344221 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344349 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344478 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344620 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344738 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344855 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.344974 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345109 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345229 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345348 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345467 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345586 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345705 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345824 -> ERROR - Request failed with rate_limit error
+
+2013-11-15 20:14:25.345931 -> INFO - Loop finish 3
+
+2013-11-15 20:14:30.346906 -> ENDING TEST -- Total Run Time: 41.5984809399 
+
+2013-11-15 20:26:10.265226 -> INFO - Starting test
+
+2013-11-15 20:26:10.265598 -> INFO - Looping 4.0 times for 5 users
+
+2013-11-15 20:26:10.266450 -> INFO - Starting loop 0
+
+2013-11-15 20:26:10.879905 -> INFO - Loop finish 0
+
+2013-11-15 20:26:15.881184 -> INFO - Starting loop 1
+
+2013-11-15 20:26:16.162060 -> INFO - Loop finish 1
+
+2013-11-15 20:26:21.163293 -> INFO - Starting loop 2
+
+2013-11-15 20:26:21.357612 -> INFO - Loop finish 2
+
+2013-11-15 20:26:26.358866 -> INFO - Starting loop 3
+
+2013-11-15 20:26:26.547024 -> INFO - Loop finish 3
+
+2013-11-15 20:26:31.547296 -> ENDING TEST -- Total Run Time: 21.2820320129 
+
+2013-11-15 20:35:08.827499 -> INFO - Starting test
+
+2013-11-15 20:35:08.827894 -> INFO - Looping 4.0 times for 5 users
+
+2013-11-15 20:35:08.829944 -> INFO - Starting loop 0
+
+2013-11-15 20:35:13.831363 -> INFO - Starting loop 1
+
