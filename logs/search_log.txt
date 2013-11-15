@@ -1,8 +1,0 @@
-2013-11-15 20:53:03.930384 -> INFO - Starting test
-
-2013-11-15 20:53:03.930751 -> INFO - Looping 4.0 times for 5 users
-
-2013-11-15 20:53:03.931737 -> INFO - Starting loop 0
-
-2013-11-15 20:53:04.454848 -> INFO - Loop finish 0
-
